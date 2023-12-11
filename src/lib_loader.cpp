@@ -2,7 +2,7 @@
  * date: 23/01/2019
  * modified: 24/01/2019 16:09:08
  * 
- * Author: Viktor Lavrentev
+ * Author: Shrimo
  * ------------------------------
  * description: Dynamic Library Loader
  * ------------------------------
